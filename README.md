@@ -1,1 +1,1 @@
-"# WoW much readme! Such information" 
+This is a sandbox repository to experiment with Git.
